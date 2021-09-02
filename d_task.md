@@ -1,4 +1,6 @@
 # lb最近要做的登记
+- 设想
+  - qq群 hook来做重要消息推送
 - 要构建的环境
   - [ ] windows端日常脚本
     - [ ] 总命令安装器
@@ -14,3 +16,5 @@
   - [ ] neovim先配置起来
   - [ ] zsh继续配置
   - [ ] ranger配置起来
+  - [ ] vscode插件登记
+    - [ ] vscode-leetcode [https://github.com/jdneo/vscode-leetcode](https://github.com/jdneo/vscode-leetcode)
