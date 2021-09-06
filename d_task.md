@@ -2,19 +2,20 @@
 - 设想
   - qq群 hook来做重要消息推送
 - 要构建的环境
-  - [ ] windows端日常脚本
+  - [x] windows端日常脚本
     - [ ] 总命令安装器
       - [ ] 命令都安装到用户目录并且部署和检查lb环境变量
-    - [ ] 日常和task记录
-      - [ ] daily支持github提交
-  - [ ] linux端日常脚本
-    - [ ] 总命令安装器
-      - [ ] 命令都安装到用户目录
+    - [x] 日常和task记录
+      - [x] daily支持github提交
+  - [x] linux端日常脚本
+    - [x] 总命令安装器
+      - [x] 命令都安装到用户目录
       - [ ] lbssh命令，用来实现快捷ssh和记录历史
       - [ ] lbscp命令，用来实现快捷scp和记录历史
 - 感兴趣的插件学习
   - [ ] neovim先配置起来
   - [ ] zsh继续配置
+    - [ ] 配置从文本配置和保存转到fork oh-my-zsh 上传我的配置和插件最后方便安装
   - [ ] ranger配置起来
   - [ ] vscode插件登记
     - [ ] vscode-leetcode [https://github.com/jdneo/vscode-leetcode](https://github.com/jdneo/vscode-leetcode)
