@@ -19,3 +19,12 @@
   - [ ] ranger配置起来
   - [ ] vscode插件登记
     - [ ] vscode-leetcode [https://github.com/jdneo/vscode-leetcode](https://github.com/jdneo/vscode-leetcode)
+  
+# w
+- [ ] 学习使用git
+  - [ ] 记录daily和mark
+- [ ] 网络层面测试
+  - [ ] wireShark
+  - [ ] filter
+  - [ ] nginx的日志
+- [ ] sql的内容认识
