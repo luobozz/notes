@@ -3,7 +3,8 @@
   - [x] qq群 hook来做重要消息推送
     - [ ] QQ群调研后大概不能使用qqhooks了尝试使用别的hooks，第一目标钉钉
 - 计划要做的事情
-  - [ ] 过滤和迁移整理gitee的项目到github
+  - [x] 过滤和迁移整理gitee的项目到github
+    - [ ] add vue and java-web 模板项目
   - [ ] 创建github的Template repository
   - [ ] 尝试v2rayN的局域网广播方案，或者替换成别的工具
 - 要构建的环境
