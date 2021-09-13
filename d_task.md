@@ -1,6 +1,6 @@
 # lb最近要做的登记
 - 设想
-  - 玩客云(bilibili收藏平台)
+  - [ ]玩客云(bilibili收藏平台)
   - [x] qq群 hook来做重要消息推送
     - [ ] QQ群调研后大概不能使用qqhooks了尝试使用别的hooks，第一目标钉钉
 - 计划要做的事情
@@ -8,6 +8,8 @@
     - [ ] add vue and java-web 模板项目
   - [ ] 创建github的Template repository
   - [ ] 尝试v2rayN的局域网广播方案，或者替换成别的工具
+  - [ ] 尝试写hyper插件
+    - [ ] tab优化成ssh名称+现有路径省略
 - 要构建的环境
   - [x] windows端日常脚本
     - [ ] 总命令安装器
