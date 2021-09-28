@@ -6,10 +6,9 @@
 - 计划要做的事情
   - [x] 过滤和迁移整理gitee的项目到github
     - [ ] add vue and java-web 模板项目
-  - [ ] 创建github的Template repository
-  - [ ] 尝试v2rayN的局域网广播方案，或者替换成别的工具
   - [ ] 尝试写hyper插件
     - [ ] tab优化成ssh名称+现有路径省略
+  - [ ] ！！！用electron开发Windows桌面插件
 - 要构建的环境
   - [x] windows端日常脚本
     - [ ] 总命令安装器
@@ -19,8 +18,8 @@
   - [x] linux端日常脚本
     - [x] 总命令安装器
       - [x] 命令都安装到用户目录
-      - [ ] lbssh命令，用来实现快捷ssh和记录历史
-      - [ ] lbscp命令，用来实现快捷scp和记录历史
+      - [ ] ！！！lbssh命令，用来实现快捷ssh和记录历史
+      - [ ] ！！！lbscp命令，用来实现快捷scp和记录历史
 - 感兴趣的插件和学习
   - [ ] 用node学习ts
     - [ ] 安装ts-node
