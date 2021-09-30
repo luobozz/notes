@@ -1,6 +1,7 @@
 # lb最近要做的登记
 - 设想
   - [ ]玩客云(bilibili收藏平台)
+  - https://startbootstrap.com/theme/resume
   - [x] qq群 hook来做重要消息推送
     - [ ] QQ群调研后大概不能使用qqhooks了尝试使用别的hooks，第一目标钉钉
 - 计划要做的事情
