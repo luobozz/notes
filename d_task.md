@@ -21,6 +21,7 @@
       - [ ] ！！！lbssh命令，用来实现快捷ssh和记录历史
       - [ ] ！！！lbscp命令，用来实现快捷scp和记录历史
 - 感兴趣的插件和学习
+  - [ ] https://study.sf.163.com/lesson/lessonMore?category_id=1&sub_category_id=45网易BI 有数
   - [ ] 用node学习ts
     - [ ] 安装ts-node
   - [ ] neovim先配置起来
