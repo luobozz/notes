@@ -41,4 +41,5 @@
 - **-w**: compilerOptions.watch
 
 # Resources
+- [TypeScript中文网](https://www.tslang.cn/index.html)
 - [compilerOptions(编译选项)资料来源](https://www.tslang.cn/docs/handbook/compiler-options.html)
