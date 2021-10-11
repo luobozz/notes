@@ -21,6 +21,7 @@
       - [x] 命令都安装到用户目录
       - [ ] ！！！lbssh命令，用来实现快捷ssh和记录历史
       - [ ] ！！！lbscp命令，用来实现快捷scp和记录历史
+      - [ ] ！！！lbproxy命令，用来开启和取消代理
 - 感兴趣的插件和学习
   - [ ] https://study.sf.163.com/lesson/lessonMore?category_id=1&sub_category_id=45网易BI 有数
   - [ ] 用node学习ts
