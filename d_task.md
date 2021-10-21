@@ -9,7 +9,11 @@
     - [ ] add vue and java-web 模板项目
   - [ ] 尝试写hyper插件
     - [ ] tab优化成ssh名称+现有路径省略
-  - [ ] ！！！用electron开发Windows桌面插件
+  - [x] ！！！用electron开发Windows桌面插件
+    - [ ] 发布1.0.0版本
+    - [ ] 优化1.0.1版本
+  - [ ] ddns插件
+    - [ ] 通过公有云域名=>家里脚本检测IP变更之后动态变更公有云的域名解析=>访问通过域名访问 (思路来源:https://post.smzdm.com/p/aqndw6op/)
 - 要构建的环境
   - [x] windows端日常脚本
     - [ ] 总命令安装器
