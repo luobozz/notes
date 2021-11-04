@@ -1,9 +1,11 @@
 # lb最近要做的登记
 - 设想
-  - [ ]玩客云(bilibili收藏平台)
-  - https://startbootstrap.com/theme/resume
+  - [ ] 元宇宙调研
+  - [ ] DDD框架调研
+  - [ ] 玩客云(bilibili收藏平台)
+    - https://startbootstrap.com/theme/resume
   - [x] qq群 hook来做重要消息推送
-    - [ ] QQ群调研后大概不能使用qqhooks了尝试使用别的hooks，第一目标钉钉
+    - [x] QQ群调研后大概不能使用qqhooks了尝试使用别的hooks，第一目标钉钉
 - 计划要做的事情
   - [x] 过滤和迁移整理gitee的项目到github
     - [ ] add vue and java-web 模板项目
@@ -36,13 +38,3 @@
   - [ ] ranger配置起来
   - [ ] vscode插件登记
     - [ ] vscode-leetcode [https://github.com/jdneo/vscode-leetcode](https://github.com/jdneo/vscode-leetcode)
-  
-# w
-- [ ] 学习使用git
-  - [ ] 记录daily和mark
-- [ ] 网络层面测试
-  - [ ] wireShark
-  - [ ] filter
-  - [ ] nginx的日志
-- [ ] sql的内容认识
-- [x] 查询华硕芯片相关信息
