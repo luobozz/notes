@@ -2,6 +2,7 @@
 - 设想
   - [ ] 元宇宙调研
   - [ ] DDD框架调研
+  - [ ] 碳排指标调研
   - [ ] ！！！建立2+N个方向的QA收藏(java和前端+其他)
   - [ ] 玩客云(bilibili收藏平台)
     - https://startbootstrap.com/theme/resume
