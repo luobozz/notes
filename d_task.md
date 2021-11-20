@@ -9,6 +9,9 @@
   - [x] qq群 hook来做重要消息推送
     - [x] QQ群调研后大概不能使用qqhooks了尝试使用别的hooks，第一目标钉钉
 - 计划要做的事情
+  - [ ] 使用chocolatey做自己的开发环境
+    - [ ] 整理自己的开发和日常环境
+    - [ ] 研究怎么安装破解版本的
   - [x] 过滤和迁移整理gitee的项目到github
     - [ ] add vue and java-web 模板项目
   - [ ] 尝试写hyper插件
