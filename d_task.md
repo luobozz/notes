@@ -36,8 +36,14 @@
       - [ ] ！！！lbproxy命令，用来开启和取消代理
 - 感兴趣的插件和学习
   - [ ] https://study.sf.163.com/lesson/lessonMore?category_id=1&sub_category_id=45网易BI 有数
-  - [ ] 用node学习ts
-    - [ ] 安装ts-node
+  - [ ] 前端 
+    - [ ] 基础向
+      - [ ] 抖音哪个后盾人
+      - [ ] 用node学习ts
+        - [ ] 安装ts-node
+    - [ ] AI向
+      - [ ] transformer.js bilibili收藏了
+    - [ ] 可视化向
   - [ ] neovim先配置起来
   - [ ] zsh继续配置
     - [ ] 配置从文本配置和保存转到fork oh-my-zsh 上传我的配置和插件最后方便安装
