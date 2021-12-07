@@ -42,7 +42,7 @@
       - [ ] 用node学习ts
         - [ ] 安装ts-node
     - [ ] AI向
-      - [ ] transformer.js bilibili收藏了
+      - [x] transformer.js bilibili收藏了
     - [ ] 可视化向
   - [ ] neovim先配置起来
   - [ ] zsh继续配置
