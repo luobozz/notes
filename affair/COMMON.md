@@ -1,0 +1,4 @@
+ - [ ] 其他
+   - [ ] add windows lb_cmd to path
+   - [ ] add git add .;git commit -am 'daily:)'; git push   to quick cmd
+     - [ ] 类似https://segmentfault.com/a/1190000040922831 增加commit规范化功能
