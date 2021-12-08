@@ -13,3 +13,9 @@
    - [ ] Spring Cloud Cluster
 - [ ] Spring Cloud Security
 - [ ] Spring Cloud Sleuth
+- [ ] Spring Cloud Task
+- [ ] Spring Cloud Zookeeper
+- [ ] Spring Cloud Connectors
+## 其他
+- [ ] Spring Cloud Starters
+- [ ] Spring Cloud CLI 
