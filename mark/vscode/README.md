@@ -10,3 +10,8 @@
 1. ctrl+b 选中的添加bold 
 2. alt+c 在勾选模式下快速选中 中间填x
 3. ctrl+shift+([ ]) [ 或者 ]对应加减标题 #
+
+# 快捷键记录
+1. alt+方向键 对应ctrl+alt+方向键 跳转刚刚修改的位置
+2. ctrl+r 对应ctrl+e 查看最近文件
+3. ctrl+shtit+alt+e 对应ctrl+shift+e 查看最近修改的代码
