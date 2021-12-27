@@ -1,0 +1,4 @@
+- [ ] lbshinstall重塑
+  - [ ] lbsh
+  - [ ] lgh
+  - [ ] lbJavaInstaller
