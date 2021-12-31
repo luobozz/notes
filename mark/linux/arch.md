@@ -21,3 +21,21 @@
   - 无线暂时用iwd+systemd来管理，卸载了networkmanager
 - 可视化
   - dwn
+    - init
+      - [ ] 状态栏基础显示
+      - [ ] 安装基本工作环境
+        - [ ] google
+          - [ ] 安装中文包
+          - [ ] 设置全局代理
+        - [ ] vscode
+          - [ ] 通过snap安装 [https://snapcraft.io/install/code/arch#install](https://snapcraft.io/install/code/arch#install)
+        - [ ] hyper
+        - [ ] IDEA
+        - [ ] v2ranN
+        - [ ] 中文输入
+        - [ ] qq
+        - [ ] 微信
+      - [ ] 美化
+        - [ ] 字体
+        - [ ] 配色
+        - [ ] 其他
