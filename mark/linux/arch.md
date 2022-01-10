@@ -5,6 +5,7 @@
 [双系统的教程](https://zhuanlan.zhihu.com/p/138951848)
 [知乎单系统教程](https://zhuanlan.zhihu.com/p/99448314)
 
+
 # 选择
 - 引导
   - EFI引导
@@ -43,3 +44,23 @@
         - [ ] 字体
         - [ ] 配色
         - [ ] 其他
+
+# 问题
+  1. 在VMware里分辨率不正确的问题
+     1. [参照教程](https://www.bilibili.com/video/BV1sE41137dW?spm_id_from=333.788.top_right_bar_window_history.content.click)
+    ```console
+    sudo pacman -S xf86-input-vmmouse xf86-video-vmware mesa
+    xrandr --addmode Virtual1 1920x1080
+    sudo pacman -S xf86-input-vmmouse xf86-video-vmware mesa
+    sudo pacman -S open-vm-tools
+    sudo pacman -S gtkmm3
+    sudo systemctl start vmtoolsd.service
+    sudo systemctl enable vmtoolsd.service
+    sudo systemctl start vmware-vmblock-fuse.service
+    sudo systemctl enable vmware-vmblock-fuse.servicesud
+    sudo pacman -S gtkmm gtk2
+    sudo vim /etc/mkinitcpio.conf
+      MODULES()改成
+      MODULES=(vsock vmw_vsock_vmci_transport vmw_balloon vmw_vmci vmwgfx)
+    sudo mkinitcpio -p linuk
+    ```
