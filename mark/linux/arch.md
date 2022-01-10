@@ -20,6 +20,10 @@
 - 网络管理
   - 无线暂时用iwd+systemd来管理，卸载了networkmanager
 - 可视化
+  - kde
+    - 登录
+      - sddm 
+      - 
   - dwn
     - init
       - [ ] 状态栏基础显示
