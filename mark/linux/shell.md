@@ -7,11 +7,17 @@ ${#str} //获取字符长度
 ${#arry[*]}
 ```
 
-
 # sleep
 ```
 <!-- 1秒 -->
 sleep 1
 <!-- 1毫秒 -->
 sleep 0.1
+```
+
+# 循环数组
+```
+for arr in ${array[@]}; do
+    echo arr
+done
 ```
