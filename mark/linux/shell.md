@@ -21,3 +21,8 @@ for arr in ${array[@]}; do
     echo arr
 done
 ```
+
+# shell里的return 
+```
+0真 1假
+```
