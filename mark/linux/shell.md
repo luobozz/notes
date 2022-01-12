@@ -20,6 +20,10 @@ sleep 0.1
 for arr in ${array[@]}; do
     echo arr
 done
+<!-- index循环 -->
+for((i=0;i<${#array[*]};i++)); do
+    echo ${array[$i]}
+done
 ```
 
 # shell里的return 
@@ -63,4 +67,11 @@ stty echo        打开自动打印输入字符的功能
 
 
 stty(set tty)命令用来控制终端或窗口的各种设置。
+```
+
+# shell字符串包含
+```
+    if [[ "${version}" == *"${VERSION}"* ]]; then
+        load_success "${script}(${version})"
+    else
 ```
