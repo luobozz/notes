@@ -5,6 +5,8 @@ ${str}|wc -L //可以字节长度，中文*2
 ${#str} //获取字符长度
 <!-- 获取数组长度 -->
 ${#arry[*]}
+<!-- 所以往数组内push参数就是 arr[arr_length]=x -->
+arr[${#arry[*]}]=1
 ```
 
 # sleep
@@ -74,4 +76,10 @@ stty(set tty)命令用来控制终端或窗口的各种设置。
     if [[ "${version}" == *"${VERSION}"* ]]; then
         load_success "${script}(${version})"
     else
+```
+
+# shell跨文件调用案例
+```
+source ${PWD}/func.sh
+[https://blog.csdn.net/u010743406/article/details/108329745](https://blog.csdn.net/u010743406/article/details/108329745)
 ```
