@@ -83,3 +83,11 @@ stty(set tty)命令用来控制终端或窗口的各种设置。
 source ${PWD}/func.sh
 [https://blog.csdn.net/u010743406/article/details/108329745](https://blog.csdn.net/u010743406/article/details/108329745)
 ```
+
+# 数组中包含
+```
+1. echo "${array[@]}" | grep -wq "$var" &&  echo "Yes" || echo "No"
+2. [[ ${array[@]/${var}/} != ${array[@]} ]] && echo "Yes" || echo "No"
+
+[https://www.cnblogs.com/thatsit/p/bash-shu-zupan-duan-mou-ge-yuan-su-shi-fou-zai-shu.html](https://www.cnblogs.com/thatsit/p/bash-shu-zupan-duan-mou-ge-yuan-su-shi-fou-zai-shu.html)
+```
