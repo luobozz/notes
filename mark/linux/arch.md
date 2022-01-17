@@ -45,7 +45,11 @@
         - [ ] 配色
         - [ ] 其他
       - [ ] 远程
-        - [ ] TightVNC方案 https://blog.csdn.net/u010563350/article/details/106793148/
+        - [ ] todesk方案
+        - [x] ~~TightVNC方案~~
+          - ~~[https://blog.csdn.net/u010563350/article/details/106793148/](https://blog.csdn.net/u010563350/article/details/106793148/) ~~
+          - ~~[https://wiki.archlinux.org/title/TigerVNC#Installation](https://wiki.archlinux.org/title/TigerVNC#Installation)~~
+          - ~~tight退出全屏方案ctrl+shift+alt+f~~
 
 # 问题
   1. 在VMware里分辨率不正确的问题
