@@ -28,24 +28,30 @@
   - dwn
     - init
       - [ ] 状态栏基础显示
+        - [ ] 
       - [ ] 安装基本工作环境
         - [ ] google
           - [ ] 安装中文包
           - [ ] 设置全局代理
         - [ ] vscode
           - [ ] 通过snap安装 [https://snapcraft.io/install/code/arch#install](https://snapcraft.io/install/code/arch#install)
-        - [ ] hyper
+        - [ ] terminal
+          - [ ] ~~hyper~~
+          - [ ] 终端使用alacritty
         - [ ] IDEA
         - [ ] v2ranN
         - [ ] 中文输入
         - [ ] qq
         - [ ] 微信
       - [ ] 美化
-        - [ ] 字体
+        - [x] 字体
+          - [x] aur安装
+          - [x] 把ttf字体文件复制到/usr/share/fonts/TTF目录下。 更新字体库fc-cache -vf
         - [ ] 配色
         - [ ] 其他
       - [ ] 远程
         - [ ] todesk方案
+          - [ ] 非x11环境下直接启动todesk然后脚本切换分辨率
         - [x] ~~TightVNC方案~~
           - ~~[https://blog.csdn.net/u010563350/article/details/106793148/](https://blog.csdn.net/u010563350/article/details/106793148/) ~~
           - ~~[https://wiki.archlinux.org/title/TigerVNC#Installation](https://wiki.archlinux.org/title/TigerVNC#Installation)~~
