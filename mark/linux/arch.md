@@ -44,6 +44,8 @@
         - [ ] 字体
         - [ ] 配色
         - [ ] 其他
+      - [ ] 远程
+        - [ ] TightVNC方案 https://blog.csdn.net/u010563350/article/details/106793148/
 
 # 问题
   1. 在VMware里分辨率不正确的问题
@@ -64,3 +66,5 @@
       MODULES=(vsock vmw_vsock_vmci_transport vmw_balloon vmw_vmci vmwgfx)
     sudo mkinitcpio -p linuk
     ```
+  2. xrandr切换屏幕分辨率
+     https://wiki.archlinux.org/index.php/xrandr#Adding_undetected_resolutions
