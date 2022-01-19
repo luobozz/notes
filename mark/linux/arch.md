@@ -37,7 +37,7 @@
           - [ ] 通过snap安装 [https://snapcraft.io/install/code/arch#install](https://snapcraft.io/install/code/arch#install)
         - [ ] terminal
           - [ ] ~~hyper~~
-          - [ ] 终端使用alacritty
+          - [ ] 终端使用st
         - [ ] IDEA
         - [ ] v2ranN
         - [ ] 中文输入
@@ -49,6 +49,7 @@
           - [x] 把ttf字体文件复制到/usr/share/fonts/TTF目录下。 更新字体库fc-cache -vf
         - [ ] 配色
         - [ ] 其他
+          - [ ] picom研究
       - [ ] 远程
         - [ ] todesk方案
           - [ ] 非x11环境下直接启动todesk然后脚本切换分辨率
@@ -78,3 +79,5 @@
     ```
   2. xrandr切换屏幕分辨率
      https://wiki.archlinux.org/index.php/xrandr#Adding_undetected_resolutions
+  3. dwm补丁不正确
+     1. 把自己的修改打成补丁
