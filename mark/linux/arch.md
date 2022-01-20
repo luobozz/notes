@@ -96,3 +96,12 @@
      2. st
      3. dmenu
   3. 装软件
+     1. 输入法
+    ```console
+    yaourt -S fcitx fcitx-im fcitx-sogoupinyin fcitx-configtool
+    fcitx-configtool #添加sogoupinyin
+    ```
+     2. 网络管理
+    ```
+    yay -S nm-connection-editor
+    ```
