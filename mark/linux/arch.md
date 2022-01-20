@@ -95,13 +95,14 @@
      1. dwm
      2. st
      3. dmenu
+     4. polybar
   3. 装软件
      1. 输入法
     ```console
     yaourt -S fcitx fcitx-im fcitx-sogoupinyin fcitx-configtool
     fcitx-configtool #添加sogoupinyin
     ```
-     2. 网络管理
+     1. 网络管理(代理设在zsh环境里)
     ```
     yay -S nm-connection-editor
     ```
