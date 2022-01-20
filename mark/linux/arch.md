@@ -29,8 +29,8 @@
     - init
       - [ ] 状态栏基础显示
         - [ ] 
-      - [ ] 安装基本工作环境
-        - [ ] google
+      - [x] 安装基本工作环境
+        - [x] google
           - [ ] 安装中文包
           - [ ] 设置全局代理
         - [ ] vscode
@@ -53,7 +53,7 @@
       - [ ] 远程
         - [ ] todesk方案
           - [ ] 非x11环境下直接启动todesk然后脚本切换分辨率
-        - [x] ~~TightVNC方案~~
+        - [x] ~~TightVNC方案~~ 放弃原因:因为alt等键无法正确远程映射所以暂弃
           - ~~[https://blog.csdn.net/u010563350/article/details/106793148/](https://blog.csdn.net/u010563350/article/details/106793148/) ~~
           - ~~[https://wiki.archlinux.org/title/TigerVNC#Installation](https://wiki.archlinux.org/title/TigerVNC#Installation)~~
           - ~~tight退出全屏方案ctrl+shift+alt+f~~
@@ -80,9 +80,19 @@
   2. xrandr切换屏幕分辨率
      https://wiki.archlinux.org/index.php/xrandr#Adding_undetected_resolutions
     ```console
-    xrandr --newmod "1920x1080_60.00"  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsync
+    cvt 1920 1080
+    xrandr --newmode "1920x1080_60.00" 173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsync
     xrandr --addmode eDP-1 1920x1080_60.00
     xrandr --output eDP-1 --mode 1920x1080_60.00
     ```
   3. dwm补丁不正确
      1. 把自己的修改打成补丁
+
+
+# 过程记录
+  1. 装arch
+  2. 装dwm套件
+     1. dwm
+     2. st
+     3. dmenu
+  3. 装软件
