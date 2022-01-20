@@ -79,5 +79,10 @@
     ```
   2. xrandr切换屏幕分辨率
      https://wiki.archlinux.org/index.php/xrandr#Adding_undetected_resolutions
+    ```console
+    xrandr --newmod "1920x1080_60.00"  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsync
+    xrandr --addmode eDP-1 1920x1080_60.00
+    xrandr --output eDP-1 --mode 1920x1080_60.00
+    ```
   3. dwm补丁不正确
      1. 把自己的修改打成补丁
