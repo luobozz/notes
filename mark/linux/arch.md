@@ -128,6 +128,9 @@
       /bin/zsh ~/code/dotfiles/yay/install 
       yay -S visual-studio-code-bin google-chrome alacritty fcitx fcitx-im fcitx-sogoupinyin fcitx-configtool
       /bin/zsh ~/code/dotfiles/alacritty/install
+      cp ~/code/dotfiles/common/font/FiraMono/* /usr/share/fonts/
+      cp ~/code/dotfiles/common/font/HarmonyOS_Sans_SC/* /usr/share/fonts/
+      fc-cache -vf
       ```
 
   5. 装WM需求
