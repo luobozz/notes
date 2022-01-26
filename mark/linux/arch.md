@@ -92,20 +92,63 @@
 # 过程记录
   1. 装arch
   2. 基础依赖
-     1. sudo pacman -S xorg xorg-xinit base-devel git 
-     2. 
-  3. 装dwm套件
-     1. dwm
-     2. st
-     3. dmenu
-     4. polybar
-  4. 装软件
-     1. 输入法
-    ```console
-    yaourt -S fcitx fcitx-im fcitx-sogoupinyin fcitx-configtool
-    fcitx-configtool #添加sogoupinyin
-    ```
-     1. 网络管理(代理设在zsh环境里)
-    ```
-    yay -S nm-connection-editor
-    ```
+      - xorg xorg-xinit 根据需求安装xorg驱动(环境不同)
+      - zsh
+      - git
+      - base-devel
+      
+      ```
+      pacman -S xorg xorg-xinit base-devel git zsh feh
+      git clone https://github.com/robbyrussell/oh-my-zsh.git ~/. oh-my-zsh
+      /bin/zsh ~/code/dotfiles/zsh/install 
+      ```
+      
+       > 虚拟机驱动fbdev没找到
+       ```
+       pacman -S xf86-video-fbdev
+       cannot open /dev/fb0: Permission denied
+       chmod 777 /dev/fb0
+       ```
+  3. getMydotfiles
+        
+      ```
+      mkdir ~/code
+      git clone git@github.com:luobozz/dotfiles.git ~/code/
+      ```
+  
+  4. 装常用工具
+      
+      - yay
+      - vscode
+      - google-chrome
+      - alacritty
+      - fcitx fcitx-im fcitx-sogoupinyin fcitx-configtool
+
+      ```
+      /bin/zsh ~/code/dotfiles/yay/install 
+      yay -S visual-studio-code-bin google-chrome alacritty fcitx fcitx-im fcitx-sogoupinyin fcitx-configtool
+      /bin/zsh ~/code/dotfiles/alacritty/install
+      ```
+
+  5. 装WM需求
+     
+     - picom
+     - feh
+     - acpi
+     - dmenu
+     
+      ```
+      yay -S picom feb acpi dmenu
+      ```
+      `pacman -S pciom`
+      
+      > pciom无法启动no supported vsync method found for this backed
+      ```
+      pciom --no-vsync
+      ```
+     3. dwm
+     4. st
+  
+  6. 软件配置
+    1. 添加输入法
+    `fcitx-configtool #添加sogoupinyin`
