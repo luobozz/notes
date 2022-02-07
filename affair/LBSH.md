@@ -1,4 +1,5 @@
-- [ ] lbshinstall重塑
+- [ ] installer执行目录改为从根目录查找
+- [x] lbshinstall重塑
   - [ ] lbsh
   - [ ] lgh
   - [ ] lbJavaInstaller
