@@ -1,0 +1,9 @@
+违规业务 ai_tran
+晨会、出入库、加钞、卡巴 4>1 ai_actions_record 类型split
+行为检测(违规) ai_violation 资源存放规则不一致
+
+盒子 ai_box
+摄像头 ai_camera
+人脸 ai_face
+
+查库(未上线)
