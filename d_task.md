@@ -10,7 +10,7 @@
   - [x] qq群 hook来做重要消息推送
     - [x] QQ群调研后大概不能使用qqhooks了尝试使用别的hooks，第一目标钉钉
 - 计划要做的事情
-  - [ ] 整理idea插件
+  - [x] 整理idea插件
   - [ ] 使用chocolatey做自己的开发环境
     - [ ] 整理自己的开发和日常环境
     - [ ] 研究怎么安装破解版本的
@@ -19,8 +19,8 @@
   - [ ] 尝试写hyper插件
     - [ ] tab优化成ssh名称+现有路径省略
   - [x] ！！！用electron开发Windows桌面插件
-    - [ ] 发布1.0.0版本
-    - [ ] 优化1.0.1版本
+    - [x] 发布1.0.0版本
+    - [x] 优化1.0.1版本
   - [ ] ddns插件
     - [ ] 通过公有云域名=>家里脚本检测IP变更之后动态变更公有云的域名解析=>访问通过域名访问 (思路来源:https://post.smzdm.com/p/aqndw6op/)
 - 要构建的环境
@@ -36,18 +36,18 @@
       - [ ] ！！！lbscp命令，用来实现快捷scp和记录历史
       - [ ] ！！！lbproxy命令，用来开启和取消代理
 - 感兴趣的插件和学习
-  - [ ] https://study.sf.163.com/lesson/lessonMore?category_id=1&sub_category_id=45网易BI 有数
+  - [x] https://study.sf.163.com/lesson/lessonMore?category_id=1&sub_category_id=45网易BI 有数
   - [ ] 前端 
     - [ ] 基础向
       - [ ] 抖音哪个后盾人
       - [ ] 用node学习ts
         - [ ] 安装ts-node
     - [ ] AI向
-      - [x] transformer.js bilibili收藏了
+      - [x] TensorFlow.js bilibili收藏了
     - [ ] 可视化向
   - [ ] neovim先配置起来
   - [ ] zsh继续配置
     - [ ] 配置从文本配置和保存转到fork oh-my-zsh 上传我的配置和插件最后方便安装
   - [ ] ranger配置起来
-  - [ ] vscode插件登记
-    - [ ] vscode-leetcode [https://github.com/jdneo/vscode-leetcode](https://github.com/jdneo/vscode-leetcode)
+  - [x] vscode插件登记
+    - [x] vscode-leetcode [https://github.com/jdneo/vscode-leetcode](https://github.com/jdneo/vscode-leetcode)
