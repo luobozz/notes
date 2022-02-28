@@ -23,3 +23,12 @@ default methods enable you to add new functionality to the interfaces of your li
 - 不在spring内的方式暂时没有找到方法
 ``` 
 [https://blog.csdn.net/zhanduo0118/article/details/120116160](https://blog.csdn.net/zhanduo0118/article/details/120116160)
+
+# Q: springboot某些字段前端不反悔
+```
+@JsonIgnore
+使用fastjson解析替换成
+@JSONField(serialize = false)
+
+适用于字段和公有get方法，具体可以深入到fastjson和jackson序列化原理
+```
