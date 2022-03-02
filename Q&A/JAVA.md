@@ -32,3 +32,10 @@ default methods enable you to add new functionality to the interfaces of your li
 
 适用于字段和公有get方法，具体可以深入到fastjson和jackson序列化原理
 ```
+
+# Q: Thread.Sleep的问题
+```
+Thread.Sleep(0)和没写有什么区别
+有
+sleep会触发一次操作系统重新分配CPU竞争
+```
