@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .testFrame{
+            width: 210px;
+            height: 297px;
+        }
+        .test {
+            width: 210px;
+            height: 297px;
+            background-color: red;
+        }
+    </style>
+    <script>
+        function tt() {
+            const ifm=document.getElementById("testf")
+            
+            console.log(ifm.contentWindow.document.body.innerHTML="<div class='test'>test</div>");
+            ifm.contentWindow.print()
+            
+            // myPrint(document.getElementById(document.getElementById("test")));
+        }
+
+
+        function myPrint(printarea) {
+            var head = "";//先生成头部
+            var foot = "";//生成尾部
+            var newstr = document.all.item(printarea).innerHTML;//获取指定打印区域
+            var oldstr = document.body.innerHTML;//获得原本页面的代码
+            document.body.innerHTML = head + newstr + foot;//购建新的网页
+            window.print();//打印刚才新建的网页
+            document.body.innerHTML = older;//将网页还原
+
+        }
+    </script>
+</head>
+
+<body>
+    <iframe class="testFrame" id="testf">
+
+    </iframe>
+
+    <button onclick="tt()">打印</button>
+</body>
+
+</html>
