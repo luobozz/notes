@@ -36,6 +36,7 @@
       - [ ] ！！！lbscp命令，用来实现快捷scp和记录历史
       - [ ] ！！！lbproxy命令，用来开启和取消代理
 - 感兴趣的插件和学习
+  - [ ] influxdb2
   - [x] https://study.sf.163.com/lesson/lessonMore?category_id=1&sub_category_id=45网易BI 有数
   - [ ] 前端 
     - [ ] 基础向
