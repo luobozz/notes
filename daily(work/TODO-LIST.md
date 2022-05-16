@@ -11,6 +11,7 @@
     - [ ] linux
 
 # ARCH TO GO
+  - [ ] 把开放本地文件加入dwm的默认google-chrome打开方式
   - [ ] VSCODE环境调整
     - [ ] 快捷键有问题
     - [ ] 代码格式化有问题
