@@ -28,6 +28,7 @@
     - [ ] 自定义bin
 
   - [ ] dmenu或者utools或者rofi的脚本
+  - [ ] 状态栏尝试ploybar
   - [ ] st脚本(看靖哥的dotfiles)
     - [ ] 复制历史命令
     - [ ] 复制历史输出
@@ -44,7 +45,7 @@
 
   - [ ] 没安装但是必须有的工具
     - [x] idea
-    - [ ] navicat
+    - [x] navicat
     - [ ] qq
     - [ ] 微信
   - [ ] 继续看theCW大神的配置
