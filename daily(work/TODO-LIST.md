@@ -13,9 +13,9 @@
 
 # 全部
   - [ ] 解决github提交CRLF or LF 的问题
-  - [ ] 整理dotfiles
+  - [x] 整理dotfiles
     - [ ] windows
-    - [ ] linux
+    - [x] linux
 
 # ARCH TO GO
   - [ ] 把开放本地文件加入dwm的默认google-chrome打开方式
@@ -36,7 +36,7 @@
     - [ ] JetBrains全家桶
       - [ ] yay -S jetbrains-toolbox
       - [ ] dwm idea的bug [https://blog.csdn.net/u010563350/article/details/104948256](https://blog.csdn.net/u010563350/article/details/104948256)
-    - [ ] clash的安装
+    - [x] clash的安装
     - [ ] 音频的安装
       - [ ] https://wiki.archlinux.org/title/Bluetooth_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)#%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2
       - [ ] bluetoothctl
