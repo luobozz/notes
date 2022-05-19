@@ -28,7 +28,7 @@
     - [ ] 自定义bin
 
   - [ ] dmenu或者utools或者rofi的脚本
-  - [ ] st脚本
+  - [ ] st脚本(看靖哥的dotfiles)
     - [ ] 复制历史命令
     - [ ] 复制历史输出
 
