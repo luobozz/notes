@@ -47,6 +47,7 @@
     - [x] navicat
     - [x] qq
     - [x] 微信
+    - [ ] fcitx5
   - [ ] 继续看theCW大神的配置
     - [ ] ranger
     - [x] st
