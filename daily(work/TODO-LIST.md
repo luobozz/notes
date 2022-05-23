@@ -31,23 +31,17 @@
   - [ ] st脚本(看靖哥的dotfiles)
     - [ ] 复制历史命令
     - [ ] 复制历史输出
-  - [ ] dwmblocks
-    - [ ] 测试鼠标按键事件
+  - [x] dwmblocks
+    - [x] 测试鼠标按键事件
+    - [ ] dwmscripts
 
-  - [x] 归档
-    - [x] JetBrains全家桶
-    - [x] clash的安装
-    - [x] 音频的安装
-      - [x] https://wiki.archlinux.org/title/Bluetooth_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)#%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2
-      - [x] bluetoothctl
-      - [x] blueman-applet && blueman-manager
 
   - [ ] 没安装但是必须有的工具
     - [x] idea
     - [x] navicat
     - [x] qq
     - [x] 微信
-    - [ ] fcitx5
+    - [x] fcitx5
   - [ ] 继续看theCW大神的配置
     - [ ] ranger
     - [x] st
