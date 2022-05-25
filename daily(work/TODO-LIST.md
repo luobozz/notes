@@ -67,7 +67,9 @@
     - [x] qq
     - [x] 微信
     - [x] fcitx5
-    - [ ] potplayer
+    - [x] vlc
+    - [ ] wps
+      - [ ] 中文
     - [ ] java环境
   - [ ] 继续看theCW大神的配置
     - [ ] ranger
