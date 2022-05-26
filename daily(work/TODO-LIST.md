@@ -72,8 +72,17 @@
     - [x] wps
       - [x] 中文
     - [ ] java环境
+    - [ ] flameshot
+      - [ ] 不能复制到文档里
   - [ ] 继续看theCW大神的配置
     - [ ] ranger
+      - [ ] 测试预览
+        - [x] 图片
+        - [ ] video
+        - [ ] pdf
+      - [x] fzf
+      - [x] lazygit
+      - [ ] 修改g menu
     - [x] st
     - [ ] nvim
       - [ ] 练习
