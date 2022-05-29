@@ -11,12 +11,19 @@
 # demos
   - [ ] 解决统一curd模式里的子组件父组件信息串了的问题
 
+
+
 # 全部
   - [ ] 解决github提交CRLF or LF 的问题
   - [x] 整理dotfiles
     - [ ] windows
     - [x] linux
 
+
+
+
+#写一个记todos的工具(node)
+  - [ ] 上传NPM
 # ARCH TO GO
   - [x] !!!st输出文字过多之后崩溃！！！
   - [ ] 快速选择壁纸
