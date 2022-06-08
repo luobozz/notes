@@ -44,6 +44,7 @@
 #写一个记todos的工具(node)
   - [ ] 上传NPM
 # ARCH TO GO
+  - [ ] 触摸板修复
   - [x] !!!st输出文字过多之后崩溃！！！
   - [ ] 快速选择壁纸
     - [ ] https://www.cnblogs.com/ldaiy/p/15061649.html 壁纸来源的思路
