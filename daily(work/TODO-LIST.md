@@ -53,7 +53,14 @@
 #写一个记todos的工具(node)
   - [ ] 上传NPM
 # ARCH TO GO
-  - [ ] 触摸板修复
+  - [ ] navicat 无限续杯
+    - [x] 方案https://blog.csdn.net/Copy_nzy/article/details/122782150
+      - [x] 删除～/.config/dconfg/user
+      - [x] 删除~/.config/navicat
+        - [x] 提前保存连接设置
+    - [ ] 改启动脚本实现自动无限续杯～
+      - [ ] 参照https://github.com/linqingping/navicat15-linux/blob/master/start.sh 
+  - [x] 触摸板修复
   - [x] !!!st输出文字过多之后崩溃！！！
   - [ ] 快速选择壁纸
     - [ ] https://www.cnblogs.com/ldaiy/p/15061649.html 壁纸来源的思路
