@@ -17,10 +17,10 @@
   - [ ] 报警弹窗
   - [ ] 报警忽略
   - [ ] 核对移动端的表现
+  - [ ] 当前没有force的页面不toast等界面的东西
 
 # demosZ
   - [ ] 解决统一curd模式里的子组件父组件信息串了的问题
-  - [ ] 当前没有force的页面不toast等界面的东西
   - [ ] windows没有tmux的情况发现了解决方案 [zellij](https://github.com/zellij-org/zellij)
 
 
