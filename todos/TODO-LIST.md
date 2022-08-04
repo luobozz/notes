@@ -10,7 +10,7 @@
   - [ ] 核对移动端的表现
   - [x] 当前没有force的页面不toast等界面的东西
   - [x] 整理界面让界面呈现更多
-
+  - [ ] 迁移服务器
 # demosZ
   - [ ] 解决统一curd模式里的子组件父组件信息串了的问题
   - [ ] windows没有tmux的情况发现了解决方案 [zellij](https://github.com/zellij-org/zellij)
