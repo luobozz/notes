@@ -13,6 +13,7 @@
   - [ ] 迁移服务器
     - [x] ~docker~
     - [x] 独立部署
+    - [ ] 完成第二个版本的修改
 # demosZ
   - [ ] 解决统一curd模式里的子组件父组件信息串了的问题
   - [ ] windows没有tmux的情况发现了解决方案 [zellij](https://github.com/zellij-org/zellij)
