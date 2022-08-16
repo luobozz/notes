@@ -32,6 +32,7 @@
 
 #写一个记todos的工具(node)
   - [ ] 上传NPM
+  - [ ] 自动贡献
 # ARCH TO GO
   - [ ] navicat 无限续杯
     - [x] 方案https://blog.csdn.net/Copy_nzy/article/details/122782150
